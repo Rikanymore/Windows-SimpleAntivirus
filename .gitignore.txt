@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.user
+*.suo
+x64/
+x86/
+Debug/
+Release/
+ipch/
+*.obj
+*.pdb
+*.ilk
+*.log
+*.idb
+*.pgc
+*.pgd
+*.tlog
+*.lastbuildstate
+*.cache
+
+# Çıktı dosyaları
+*.exe
+*.dll
+*.lib
+*.exp
+
+# İmza veritabanı ve karantina klasörü
+signatures.sdb
+quarantine/
+
+# EICAR test dosyası
+eicar_test.com
+
+# Kendi derlediğimiz uygulama
+SimpleAntivirus.exe
